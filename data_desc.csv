@@ -1,0 +1,9 @@
+Attribut Name;Definition
+MPG;MPG (Miles Per Gallon) is the amount of fuel consumed by the particular vehicle of an instance
+Cylinders;This attribute describes the number of cylinders of each car
+Displacement;This is another attibute of the vehicle which has a quantitative continous value describing the engine displacement
+Horsepower;This attribute tells about the horsepower of a car and is a continous valued variable
+Weight;This refers to the weight of each car which is a continous valued quantitative variable
+Acceleration;The acceleration of the car
+Model Year;The year the model was released is mentioned in this attribute
+Origin;1 refers to cars made in USA 2 for Europe and 3 for Asia
